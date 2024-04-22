@@ -1,4 +1,5 @@
 # Квітень
+(https://github.com/Plokhyi/PROTOKOLU/blob/main/4383927.png)
 
 #### Тема зустрічі "Баги логування"
 
