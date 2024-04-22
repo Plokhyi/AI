@@ -1,4 +1,4 @@
-# Квітень ![Image ARt](https://github.com/Plokhyi/PROTOKOLU/blob/main/квітень.png)
+# Квітень ![Image ART](https://github.com/Plokhyi/PROTOKOLU/blob/main/квітень.png)
 
 #### Тема зустрічі "Баги логування"
 
